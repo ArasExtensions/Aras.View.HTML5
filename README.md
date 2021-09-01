@@ -1,3 +1,5 @@
+## A very warm welcome to you! 
+
 # Aras HTML5
 
 Aras HTML5 provides a HTML5 client library to build [Aras Innovator](http://www.aras.com) Applications that run in HTML5 
@@ -31,3 +33,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
  * Address: The Winnowing House, Mill Lane, Askham Richard, York, YO23 3NW, United Kingdom
  * Tel:     +44 113 815 3440
  * Email:   support@processwall.com
+
+ ## Thnaks for visiting
