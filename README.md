@@ -1,6 +1,6 @@
 # Aras HTML5
 
-Aras HTML5 provides a HTML5 client library to build [Aras Innovator](http://www.aras.com) Applications that run in HTML5 
+Aras HTML5 provides a HTML5 client library to build [Aras Innovator](http://www.aras.com). Applications that run in HTML5 
 compliant browsers and the Aras Innovator User Interface.
 
 ## Prerequisites
